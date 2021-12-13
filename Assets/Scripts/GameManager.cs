@@ -86,7 +86,7 @@ public class GameManager : MonoBehaviour
     
     public void GameOver()
     {
-        playerAudio.PlayOneShot(gameOverSound, 0.5f);
+        // playerAudio.PlayOneShot(gameOverSound, 0.5f);
         restartButton.gameObject.SetActive(true);
         gameOverText.gameObject.SetActive(true);
         isGameActive = false;
