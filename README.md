@@ -4,8 +4,9 @@
 ## Lukasz Bik
 
 https://github.com/jd-tu/finished
+
 https://jd-tu.github.io/finished/
 
 ## 3rd party code
-Terrain
-Open window link
+* Terrain
+* Open window link
