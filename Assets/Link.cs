@@ -8,7 +8,7 @@ public class Link : MonoBehaviour
 	public void OpenGithubPage()
 	{
 		#if !UNITY_EDITOR
-		openWindow("https://github.com/jd-tu/game");
+		openWindow("https://github.com/jd-tu/finished");
 		#endif
 	}
 
